@@ -4,6 +4,8 @@ This document summarizes the steps involved in adding a dataset to Data Commons
 (DC).  As a prerequisite, please ensure that the DC core team
 (support@datacommons.org) has approved the addition of the dataset.
 
+Hi
+
 ## Background
 
 The following documents provide a background on the data model, format and workflow:
